@@ -1,0 +1,9 @@
+https://stackoverflow.com/questions/20578187/c-convert-argv1-to-double
+https://stackoverflow.com/questions/21023605/initialize-array-of-strings
+https://www.tutorialspoint.com/c_standard_library/stdlib_h.htm
+https://www.tutorialspoint.com/c_standard_library/string_h.htm
+https://www.tutorialspoint.com/c_standard_library/math_h.htm
+https://stackoverflow.com/questions/3064926/how-to-write-log-base2-in-c-c
+https://www.thinkage.ca/gcos/expl/c/lib/printf.html#:~:text=If%20%22type%22%20is%20'g,is%20enclosed%20in%20double%20quotes.
+https://stackoverflow.com/questions/13898850/c-program-to-find-current-file-name
+https://stackoverflow.com/questions/17292545/how-to-check-if-the-input-is-a-number-or-not-in-c

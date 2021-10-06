@@ -1,0 +1,147 @@
+=======================
+Example Result For Invalid Job Instance: nonnumeric_length.txt
+invalid instance
+=======================
+
+=======================
+Example Result For Invalid Job Instance: nonnumeric_period.txt
+invalid instance
+=======================
+
+=======================
+Example Result For Invalid Job Instance: 1001_period.txt
+invalid instance
+=======================
+
+=======================
+Example Result For Invalid Job Instance: 0_period.txt
+invalid instance
+=======================
+
+=======================
+Example Result For Invalid Job Instance: fewer_than_expected_jobs.txt
+invalid instance
+=======================
+
+=======================
+Example Result For Invalid Job Instance: negative_reject.txt
+invalid instance
+=======================
+
+=======================
+Example Result For Invalid Job Instance: nonnumeric_reject.txt
+invalid instance
+=======================
+
+=======================
+Example Result For Invalid Job Instance: 1001_reject.txt
+invalid instance
+=======================
+
+=======================
+Example Result For Invalid Job Instance: negative_length.txt
+invalid instance
+=======================
+
+=======================
+Example Result For Invalid Job Instance: one_line_negative_period.txt
+invalid instance
+=======================
+
+=======================
+Example Result For Invalid Job Instance: negative_period.txt
+invalid instance
+=======================
+
+=======================
+Example Result For Invalid Job Instance: fewer_than_expected_numbers.txt
+invalid instance
+=======================
+
+Mistakes in detecting invalid outputs as invalid: 0/12
+=======================
+Example Result For Valid Job Instance: 2_jobs_1000_reject.txt
+2
+1 1
+1 1000
+The accepted jobs in SPT order:
+1 1
+
+total completion time = 1
+total rejection cost = 1000
+objective = 1001
+=======================
+
+=======================
+Example Result For Valid Job Instance: 10_jobs_oneline.txt
+10
+2 12
+7 40
+18 10
+28 44
+35 40
+5 60
+11 20
+21 38
+30 25
+42 61
+The accepted jobs in SPT order:
+2 12
+11 20
+18 10
+30 25
+
+total completion time = 107
+total rejection cost = 283
+objective = 390
+=======================
+
+=======================
+Example Result For Valid Job Instance: 10_jobs.txt
+10
+2 12
+7 40
+18 10
+28 44
+35 40
+5 60
+11 20
+21 38
+30 25
+42 61
+The accepted jobs in SPT order:
+2 12
+11 20
+18 10
+30 25
+
+total completion time = 107
+total rejection cost = 283
+objective = 390
+=======================
+
+=======================
+Example Result For Valid Job Instance: 2_jobs_1000_period.txt
+2
+1000 1
+5 1
+The accepted jobs in SPT order:
+1000 1
+
+total completion time = 1000
+total rejection cost = 1
+objective = 1001
+=======================
+
+=======================
+Example Result For Valid Job Instance: 1_job.txt
+1
+1 1
+The accepted jobs in SPT order:
+1 1
+
+total completion time = 1
+total rejection cost = 0
+objective = 1
+=======================
+

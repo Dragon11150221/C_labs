@@ -1,0 +1,3 @@
+Content of output03.txt: 
+line1 abafasdad
+line2 adadasdaafasfas

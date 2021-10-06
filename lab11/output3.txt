@@ -1,0 +1,8 @@
+Content of output3.txt: 
+
+line1 abafasdad
+line2..asdasdadadasdaafasfas
+line333333333333333333
+   2 3 1 23 12
+   asdasdadadasdaafasfas
+adas

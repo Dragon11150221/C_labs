@@ -1,0 +1,9 @@
+reference:
+https://www.quora.com/How-do-you-use-Scanf-to-enter-integers-into-the-array-in-C
+https://www.sanfoundry.com/c-program-print-alternate-array-elements/
+https://www.programiz.com/dsa/bubble-sort
+https://www.runoob.com/cprogramming/c-pointers.html
+https://www.educative.io/edpresso/how-to-convert-a-string-to-an-integer-in-c
+https://blog.csdn.net/qq_26768741/article/details/50933598
+https://www.includehelp.com/c/octal-literals.aspx
+https://www.thetopsites.net/article/52747323.shtml

@@ -1,0 +1,3 @@
+Content of output10.txt: 
+line1 abafasdad
+line2 adadasdaafasfas
